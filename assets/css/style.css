@@ -40,7 +40,7 @@ body {
   position: relative;
   visibility: visible;
   overflow-x: hidden;
-  color: #3f3f3f;
+  color: #9999ff;
   background-color: #FFFFFF;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -704,7 +704,7 @@ input:focus:-ms-input-placeholder {
 }
 .header-transparent .btn-menu:hover {
   background-color: #FFFFFF;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1318,14 +1318,14 @@ input:focus:-ms-input-placeholder {
   }
 }
 .btn-menu:hover {
-  background-color: #3f3f3f;
+  background-color: #9999ff;
 }
 
 .btn-search-menu {
   background-color: transparent;
   border: none;
   box-shadow: none;
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 21px;
   line-height: 1;
   padding: 0;
@@ -1692,7 +1692,7 @@ input:focus:-ms-input-placeholder {
   background-image: none;
   border: none;
   box-shadow: none;
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 32px;
   line-height: 1;
   margin: 0;
@@ -1792,7 +1792,7 @@ input:focus:-ms-input-placeholder {
   color: #353535;
 }
 .cart-content ul li .cart-title span span.price {
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 16px;
 }
 .cart-content ul li .cart-delete {
@@ -1854,8 +1854,8 @@ input:focus:-ms-input-placeholder {
   border: 1px solid #e5e3e3;
 }
 .cart-content .cart-checkout-btn a.cart-btn:hover {
-  background-color: #3f3f3f;
-  border-color: #3f3f3f;
+  background-color: #9999ff;
+  border-color: #9999ff;
   color: #FFFFFF;
 }
 .cart-content .cart-checkout-btn a.checkout-btn {
@@ -1919,7 +1919,7 @@ input:focus:-ms-input-placeholder {
 }
 .aside-search-box-wrapper .btn-close:hover {
   color: #FFFFFF;
-  background-color: #3f3f3f;
+  background-color: #9999ff;
 }
 .aside-search-box-wrapper .offcanvas-body {
   padding-top: 64px;
@@ -1927,7 +1927,7 @@ input:focus:-ms-input-placeholder {
 .aside-search-box-wrapper .search-note p {
   font-size: 13px;
   text-transform: capitalize;
-  color: #3f3f3f;
+  color: #9999ff;
   margin-bottom: 10px;
 }
 .aside-search-box-wrapper .search-form {
@@ -1969,7 +1969,7 @@ input:focus:-ms-input-placeholder {
 }
 .aside-search-box-wrapper .search-form .search-button:hover {
   color: #FFFFFF;
-  background-color: #3f3f3f;
+  background-color: #9999ff;
 }
 .aside-search-box-wrapper.offcanvas-top {
   height: 215px;
@@ -2071,7 +2071,7 @@ input:focus:-ms-input-placeholder {
   }
 }
 .sidemenu-top .header-info-dropdown .btn-info.dropdown-toggle:after {
-  color: #3f3f3f;
+  color: #9999ff;
   content: "\f107";
   font-family: "FontAwesome";
   font-size: 28px;
@@ -2122,7 +2122,7 @@ input:focus:-ms-input-placeholder {
   padding: 7px 15px;
   font-weight: 400;
   font-size: 14px;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .offcanvas-menu > ul > li > ul li a:not(:only-child):after {
   font-size: 18px;
@@ -2136,7 +2136,7 @@ input:focus:-ms-input-placeholder {
 .offcanvas-menu > ul > li > ul li > ul li a {
   padding: 7px 30px;
   font-size: 13px;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 
 .offcanvas-menu li.active > ul {
@@ -2146,7 +2146,7 @@ input:focus:-ms-input-placeholder {
 .offcanvas-menu li a {
   display: block;
   text-transform: capitalize;
-  color: #3f3f3f;
+  color: #9999ff;
   padding: 10px 0px;
   position: relative;
   font-size: 17px;
@@ -2165,7 +2165,7 @@ input:focus:-ms-input-placeholder {
 }
 
 .offcanvas-menu a:not(:only-child):after {
-  color: #3f3f3f;
+  color: #9999ff;
   content: "\f107";
   font-family: "FontAwesome";
   font-size: 28px;
@@ -2349,7 +2349,7 @@ input:focus:-ms-input-placeholder {
 }
 @media only screen and (max-width: 767px) {
   .footer-main .widget-collapse-body {
-    background-color: #3f3f3f;
+    background-color: #9999ff;
     border: 1px solid #353535;
     border-radius: 0 0 10px 10px;
   }
@@ -6947,7 +6947,7 @@ input:focus:-ms-input-placeholder {
   padding-bottom: 22px;
 }
 .product-detail-info-wrap li {
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 15px;
   list-style: none;
   margin: 0 0 13px;
@@ -7167,7 +7167,7 @@ input:focus:-ms-input-placeholder {
   border-color: #0000cc;
 }
 .product-size-list-check .form-check-label {
-  color: #3f3f3f;
+  color: #9999ff;
   cursor: pointer;
   font-size: 18px;
   font-weight: 600;
@@ -7388,7 +7388,7 @@ input:focus:-ms-input-placeholder {
   background-color: #f3f3f3;
 }
 .cart-table thead > tr th {
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
@@ -7439,7 +7439,7 @@ input:focus:-ms-input-placeholder {
 .cart-table tbody > tr td.product-price span {
   font-size: 16px;
   font-weight: 500;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .cart-table tbody > tr td.product-total span {
   font-size: 16px;
@@ -7562,7 +7562,7 @@ input:focus:-ms-input-placeholder {
   font-size: 14px;
   margin-bottom: 18px;
   display: block;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .calculate-discount-content .input-style {
   margin-bottom: 15px;
@@ -7779,7 +7779,7 @@ input:focus:-ms-input-placeholder {
 }
 .checkout-coupon-content button {
   border: none;
-  background-color: #3f3f3f;
+  background-color: #9999ff;
   color: #FFFFFF;
   font-size: 14px;
   font-weight: 400;
@@ -7813,7 +7813,7 @@ input:focus:-ms-input-placeholder {
   }
 }
 .billing-info label abbr {
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .billing-info input {
   background-color: transparent;
@@ -8178,7 +8178,7 @@ input:focus:-ms-input-placeholder {
   }
 }
 .place-order a:hover {
-  background-color: #3f3f3f;
+  background-color: #9999ff;
 }
 
 .wishlist-table-content {
@@ -8239,12 +8239,12 @@ input:focus:-ms-input-placeholder {
 .wishlist-table-content tbody > tr td.product-price span {
   font-size: 16px;
   font-weight: 500;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .wishlist-table-content tbody > tr td.stock-status span {
   font-size: 14px;
   font-weight: 500;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .wishlist-table-content tbody > tr td.stock-status span i {
   font-size: 11px;
@@ -8303,7 +8303,7 @@ input:focus:-ms-input-placeholder {
 .compare-table-content tr td.product-image-title .category {
   float: left;
   clear: both;
-  color: #3f3f3f;
+  color: #9999ff;
   text-transform: capitalize;
   letter-spacing: 0.5px;
 }
@@ -8335,7 +8335,7 @@ input:focus:-ms-input-placeholder {
 .compare-table-content tr td.pro-color, .compare-table-content tr td.pro-stock {
   font-size: 15px;
   font-weight: 400;
-  color: #3f3f3f;
+  color: #9999ff;
 }
 .compare-table-content tr td.pro-price {
   color: #0000cc;
@@ -8519,7 +8519,7 @@ input:focus:-ms-input-placeholder {
 }
 .login-register-title p {
   line-height: 1.6;
-  color: #3f3f3f;
+  color: #9999ff;
   width: 85%;
 }
 @media only screen and (max-width: 767px) {
@@ -8707,7 +8707,7 @@ input:focus:-ms-input-placeholder {
   margin: 0;
 }
 .register-benefits ul li {
-  color: #3f3f3f;
+  color: #9999ff;
   font-size: 16px;
   margin: 0 0 16px;
 }
@@ -8721,7 +8721,7 @@ input:focus:-ms-input-placeholder {
 }
 .register-benefits ul li i {
   font-size: 20px;
-  color: #3f3f3f;
+  color: #9999ff;
   margin-right: 12px;
   position: relative;
   top: 3px;
